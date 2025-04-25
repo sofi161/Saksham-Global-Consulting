@@ -25,6 +25,4 @@ Welcome to the official repository of **Saksham Global Consulting**, a professio
 
 ---
 
-## 📁 Folder Structure
-
 
